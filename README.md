@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Storm Tarran
 
-<!--
-**Storm-Tarran/Storm-Tarran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C#/.NET student dev who loves clean frontend UI · South Africa**
 
-Here are some ideas to get you started:
+---
+<img align="right" src="https://media.tenor.com/1SXIh2VpnhQAAAAi/cat.gif" height="120" alt="cat gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm building
+- **Chess-Clone (WPF/C#)** — rules engine, legal moves, MVVM UI  
+  → https://github.com/Storm-Tarran/Chess-Clone
+- **LP/IP Solver (C#)** — Primal/Revised Simplex, Branch & Bound, Cutting Plane  
+  → https://github.com/Storm-Tarran/LPR_381_Group_V22
+- **Game Finder (Vite/JS)** — lightweight game search frontend  
+  → https://github.com/Storm-Tarran/Game-Finder
+
+### 🌱 Learning
+- ASP.NET Core Web API
+- Entity Framework Core
+- Docker
+- React & Tailwind
+- TypeScript
+- Vite
+
+### 💬 Ask me about
+C#, .NET, REST APIs, Postman, Docker basics
+
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/storm-tarran-21a112374/) ·
+[Email](mailto:tarrans14@gmail.com) ·
+[Portfolio](https://storm-tarran.github.io/Storm-Tarran-Portfolio-Website/)
+
+
+
+---
+
+### 🧰 Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,java,python,ts,react,tailwind,html,css,nodejs,express,postgres,mysql,mongodb,docker,postman,git,github&perline=10" />
+</p>
+
+
