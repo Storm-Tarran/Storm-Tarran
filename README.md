@@ -6,10 +6,6 @@
 <img align="right" src="https://media.tenor.com/1SXIh2VpnhQAAAAi/cat.gif" height="120" alt="cat gif" />
 
 ### 🔭 What I'm building
-- **Chess-Clone (WPF/C#)** — rules engine, legal moves, MVVM UI  
-  → https://github.com/Storm-Tarran/Chess-Clone
-- **LP/IP Solver (C#)** — Primal/Revised Simplex, Branch & Bound, Cutting Plane  
-  → https://github.com/Storm-Tarran/LPR_381_Group_V22
 - **Game Finder (Vite/JS)** — lightweight game search frontend  
   → https://github.com/Storm-Tarran/Game-Finder
 
