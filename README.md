@@ -31,7 +31,7 @@ C#, .NET, REST APIs, Postman, Docker basics
 
 ### 🧰 Tech
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,java,python,ts,react,tailwind,html,css,nodejs,express,postgres,mysql,mongodb,docker,postman,git,github&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,java,python,tailwind,html,css,nodejs,express,postgres,mongodb,docker,postman,git,github&perline=10" />
 </p>
 
 
